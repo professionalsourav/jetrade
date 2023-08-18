@@ -1,0 +1,66 @@
+.sidebar{
+    background: rgb(0, 7, 61);
+    color: white;
+    height: 100vh;
+    width: 200px;
+}
+
+.routes{
+    color: white;
+}
+
+.top_section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 10px;
+}
+
+.logo{
+    font-size: 18px;
+    line-height: 0;
+    cursor: pointer;
+
+}
+
+.search{
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    height: 30px;
+    padding: 10px;
+}
+
+.search input {
+    border: none;
+    margin-left: 10px;
+    border-radius: 5px;
+    background: rgb(238, 238, 238);
+    
+}
+
+.link{
+    display: flex;
+    color: white;
+    gap: 10px;
+    padding: 15px 25px;
+}
+
+a{
+    text-decoration: none;
+    transition: 0.2s cubic-bezier(0.6, -0.28, 0.735, 0.045);
+}
+.link:hover{
+    border-right: 4px solid white;
+    transition: 0.2s cubic-bezier(0.6, -0.28, 0.735, 0.045);
+    background: rgb(45, 51, 89);
+}
+
+.link_text{
+    white-space: nowrap;
+    font-size: 15px;
+
+}
+.bars{
+    cursor: pointer;
+}

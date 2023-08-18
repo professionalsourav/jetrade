@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+.bgcolor{
+    height: 330vh;
+    background: rgb(90, 35, 35);
+    background: linear-gradient(158deg, rgba(90, 35, 35,1) 0%, rgb(245, 114, 114,1) 100%);
+}
+.gradient{
+    background: rgb(40, 34, 70);
+    background: linear-gradient(158deg, rgba(40,34,70,1) 0%, rgba(30,47,141,1) 100%);
+}
+.iconstyle{
+    color: rgb(52, 250, 52);
+    cursor: pointer
+}
+
+.refgradient{
+    background: rgb(59, 27, 55);
+    background: linear-gradient(158deg, rgba(59, 27, 55,1) 0%, rgb(126, 74, 119) 100%);
+}
+ 
+.reficonstyle{
+    color: rgb(220, 250, 52);
+    cursor: pointer
+}
+.paygradient{
+
+    background: rgb(27, 45, 59);
+    background: linear-gradient(158deg, rgb(40, 65, 85) 0%, rgb(31, 133, 211) 100%);
+}
+
+.payiconstyle{
+    color: rgb(52, 250, 174);
+    cursor: pointer
+}
+
+.ringradient{
+    background: rgb(45, 27, 59);
+    background: linear-gradient(158deg, rgb(59, 27, 32) 0%, rgb(132, 27, 212) 100%);
+
+}
+
+.riniconstyle{
+    color: rgb(235, 136, 123);
+    cursor: pointer
+}
+
+.wdrawradient{
+    background: rgb(59, 27, 48);
+    background: linear-gradient(158deg, rgb(59, 27, 48) 0%, rgb(231, 25, 159) 100%);
+}
+.wdrawconstyle{
+    color: rgb(160, 231, 29);
+    cursor: pointer
+
+}
+
+.transradient{
+    background: rgb(40, 126, 37);
+    background: linear-gradient(158deg, rgb(40, 126, 37) 0%, rgb(19, 219, 12) 100%);
+}
+.transconstyle{
+    color: rgb(29, 157, 231);
+    cursor: pointer
+}
+.sharadient{
+    background: rgb(126, 37, 37);
+    background: linear-gradient(158deg, rgb(126, 37, 37) 0%, rgb(240, 34, 34) 100%);
+}
+.sharconstyle{
+    color: rgb(140, 224, 101);
+    cursor: pointer
+}
+.crapi{
+   margin-bottom: 10px;
+    background:  rgb(36, 36, 41);
+    background: linear-gradient(158deg, rgb(36, 36, 41) 0%, rgb(68, 68, 70) 100%);
+    color: white;
+    
+   
+   
+}
+
+.coin-app{
+    margin-left: 10px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+
+.coin-input {
+    padding-left: 16px;
+    width: 300px;
+    height: 40px;
+    border-radius: 4px;
+    border: none;
+    background-image: linear-gradient(
+      -225deg,
+      #ac32e4 0%,
+      #7918f2 48%,
+      #4801ff 100%
+    );
+  
+    color: #e2e2e2;
+  }
+  
+  .coin-input::placeholder {
+    color: #e2e2e2;
+  }
+
+.coin-search{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}

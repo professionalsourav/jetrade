@@ -1,0 +1,8 @@
+.anabg{
+    background: rgb(59, 27, 55);
+    background: linear-gradient(158deg, rgba(59, 27, 55,1) 0%, rgb(126, 74, 119) 100%);
+}
+.cg{
+    color: aqua;
+    background: linear-gradient(158deg, rgb(150, 6, 126) 0%, rgb(11, 165, 50) 100%);
+}

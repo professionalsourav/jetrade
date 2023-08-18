@@ -1,0 +1,10 @@
+.fbn{
+    background-image: url(./banner2.jpg);
+}
+.fcn{
+    display: flex;
+    height: 40%;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}

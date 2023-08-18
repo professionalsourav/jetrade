@@ -1,0 +1,14 @@
+.paybtn{
+    text-align: center;
+    color: rgb(238, 66, 172);
+}
+
+.paybg{
+    height: 100vh;
+    background: rgb(241, 239, 239);
+}
+.newuser{
+    background: rgb(45, 27, 59);
+    background: linear-gradient(158deg, rgb(59, 27, 32) 0%, rgb(132, 27, 212) 100%);
+
+}

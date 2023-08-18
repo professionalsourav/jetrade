@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,200&family=Playfair+Display:wght@700&family=Poppins:ital,wght@0,400;1,300&display=swap');
+
+.header{
+    font-family: 'Playfair Display', serif;
+    font-size: 17px;
+    line-height: 26px;
+    text-transform: uppercase;
+    background-color: aqua !important;
+    
+    
+  
+  }
